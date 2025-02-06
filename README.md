@@ -49,6 +49,7 @@ This project analyzes the risk and return of a financial stock portfolio using d
    pip install numpy pandas yfinance matplotlib scikit-learn statsmodels
 
 2. Run the Jupyter notebooks in order:
-    Portfolio Risk and Analysis- ARIMA.ipynb
-    Portfolio Risk and Analysis+ Clustering+ Risk Computation.ipynb
-3. View the risk-return graphs, optimized portfolio weights and ARIMA forecasts.
+   Portfolio Risk and Analysis- ARIMA.ipynb
+   Portfolio Risk and Analysis+ Clustering+ Risk Computation.ipynb
+   
+4. View the risk-return graphs, optimized portfolio weights and ARIMA forecasts.
